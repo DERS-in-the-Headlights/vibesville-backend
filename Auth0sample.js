@@ -24,3 +24,7 @@ const verifyUser = require('./auth0');
 
 
 // app.use(verifyUser);
+
+// IN -->
+// City.find({email:req.user.email});
+// Only show data tied/saved to specific email
