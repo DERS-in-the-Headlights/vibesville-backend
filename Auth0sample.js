@@ -1,8 +1,8 @@
-// Job Model:
+// --------Job Model:
 // jobSchema include{
 // email: String
 // };
-
+//--------------------
 
 
 // -------Disregard if not seeding------------
@@ -11,13 +11,12 @@
 // await City.create --> include{
 // email: 'student@email.com'
 // }
+//----------------------------------------------
 
-
-
+//---------------------------------------
 // IN server.js -->
 
 // const verifyUser = require('./auth0');
-
 
 
 // app.use(verifyUser);
