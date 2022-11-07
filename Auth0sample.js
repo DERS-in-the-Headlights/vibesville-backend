@@ -3,9 +3,6 @@
 // email: String
 // };
 
-const { appendFile } = require('fs');
-const { emitWarning } = require('process');
-const verifyUser = require('./auth0');
 
 
 // -------Disregard if not seeding------------
